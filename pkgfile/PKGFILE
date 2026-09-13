@@ -21,6 +21,7 @@ depends=(
 	xorg-fonts
 	xorg-video-drivers
 	mesa-dri
+  xrdb
 )
 backup=()
 
